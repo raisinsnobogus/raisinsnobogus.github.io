@@ -1,0 +1,102 @@
+.list-group-item:hover{
+    background-color: teal;
+    color: white;
+    font-size: 15px;
+    font-family: Bahnschrift Light;
+    font-weight: bold;
+
+}
+a:link{
+    text-decoration: none;
+    color: white;
+}
+a:visited {	
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+a:active {
+    text-decoration: none;
+    color:white;
+}
+.menu{
+    background-color: grey;   
+    font-family: 'Slabo 27px', serif;
+}
+.banner h1{
+    color = "white";
+}
+
+.footer{
+    background-color: rgb(119, 221, 119);
+}
+.footer p{
+    color: ;
+    text-align: center;
+}
+.list-group-item{
+    background-color: grey;
+    border: 0 none;
+    float: left;
+}
+.image{
+    width: 50%;
+    height: 50% ;
+}
+.details {
+    background-color: rgb(190,0,1);
+    font-family: 'Slabo 27px', serif;
+    color: white;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+.menubackground{
+    background-color: grey;
+    width: 120%;
+}
+.bannerbackground{
+    background-color: rgb(190,0,1);
+}
+.img-fluid{
+    width: 100%;
+    height: 70%;
+    padding: 0;
+    display: block;
+}
+
+.content{
+    background-color: black;
+    height: 100%;
+    color: green;
+    font-family: Earwig Factory;
+}
+.content h1{
+    font-family: 'Slabo 27px', serif;
+    background-color: green;
+    text-align: center;
+    color: black;
+}
+.content p{
+    font-family: Courier New;
+    font-size: 20px;
+    text-align: center;
+}
+.foot{
+    
+}
+.interests li{
+    font-family: Courier New;
+}
+.interests{
+    text-align: center;
+}
