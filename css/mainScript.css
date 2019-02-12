@@ -100,3 +100,11 @@ a:active {
 .interests{
     text-align: center;
 }
+.Interests_item{
+    font-family: Courier New;
+    font-size: 35px;
+}
+.intirists{
+    width: 85%;
+    height: 40%;
+}
