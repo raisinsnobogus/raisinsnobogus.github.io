@@ -27,14 +27,14 @@ a:active {
     font-family: 'Slabo 27px', serif;
 }
 .banner h1{
-    color = "white";
+    color:  "white";
 }
 
 .footer{
     background-color: rgb(119, 221, 119);
 }
 .footer p{
-    color: ;
+    color: white;
     text-align: center;
 }
 .list-group-item{
@@ -78,7 +78,6 @@ a:active {
     background-color: black;
     height: 100%;
     color: green;
-    font-family: Earwig Factory;
 }
 .content h1{
     font-family: 'Slabo 27px', serif;
@@ -91,9 +90,6 @@ a:active {
     font-size: 20px;
     text-align: center;
 }
-.foot{
-    
-}
 .interests li{
     font-family: Courier New;
 }
@@ -104,4 +100,83 @@ a:active {
     font-family: Courier New;
     font-size: 35px;
 }
+.buttons{
+    background-color: black;
+    border-color: green;
+    color: white;
+    font-family: Courier New;
+}
+.buttons:hover{
+    background-color: green;
+    border-color: black;
+    color:black;
+}
+.navbar.left{
+    width: 20%;
+}
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+  }
+  .logo{
+    width: 20%;
+    padding: none;
+}
+.navbar-brand{
+    border: 10px solid transparent;
+  padding: 15px;
+  border-image: 20% round;
+}
+.menu1{
+    background-color: rgb(174, 198, 207);
+}
+.menu1 h3{
+    font-family: "Bebas Kai";   
+    color: black;
+}
+.menu2 h3{
+    font-family: "Bebas Kai";   
+    color: black;
+}
+.menu3 h3{
+    font-family: "Bebas Kai";   
+    color: black;
+}
+.menu4 h3{
+    font-family: "Bebas Kai";   
+    color: black;
+}
+.menu1:hover{
+    color: white;
+    font-family: "Bebas Kai";
+    animation-name: example;
+    animation-duration: 4s;
+}
+.menu2{
+    background-color: rgb(244, 209, 119);
+    animation-name: example;
+}
+.menu2:hover{
+    color: white;
+    font-family: "Bebas Kai";
+    animation-name: example;
+    animation-duration: 4s;
+}
+.menu3{
+    background-color: rgb(255, 105, 97);
+}
+.menu3:hover{
+    color: white;
+    font-family: "Bebas Kai";
+    animation-name: example;
+    animation-duration: 4s;
+}
+@keyframes example {
+    25%  {background-color:yellow;}
+    50%  {background-color:blue;}
+    75%  {background-color:green;}
+    100% {background-color:red;}
+  }
 
