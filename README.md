@@ -1,2 +1,2 @@
 # raisinsnobogus.github.io
-My Website
+Note: this site requires Bebas Kai font installed in the system
