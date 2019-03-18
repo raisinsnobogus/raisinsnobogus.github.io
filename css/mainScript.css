@@ -133,24 +133,24 @@ a:active {
     background-color: rgb(174, 198, 207);
 }
 .menu1 h3{
-    font-family: "Bebas Kai";   
+    font-family: 'Slabo 27px', serif;   
     color: black;
 }
 .menu2 h3{
-    font-family: "Bebas Kai";   
+    font-family: 'Slabo 27px', serif;   
     color: black;
 }
 .menu3 h3{
-    font-family: "Bebas Kai";   
+    font-family: 'Slabo 27px', serif;   
     color: black;
 }
 .menu4 h3{
-    font-family: "Bebas Kai";   
+    font-family: 'Slabo 27px', serif;   
     color: black;
 }
 .menu1:hover{
     color: white;
-    font-family: "Bebas Kai";
+    font-family: 'Slabo 27px', serif;
     animation-name: example;
     animation-duration: 4s;
 }
@@ -160,7 +160,7 @@ a:active {
 }
 .menu2:hover{
     color: white;
-    font-family: "Bebas Kai";
+    font-family: 'Slabo 27px', serif;
     animation-name: example;
     animation-duration: 4s;
 }
@@ -169,7 +169,7 @@ a:active {
 }
 .menu3:hover{
     color: white;
-    font-family: "Bebas Kai";
+    font-family: 'Slabo 27px', serif;
     animation-name: example;
     animation-duration: 4s;
 }
